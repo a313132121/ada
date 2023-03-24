@@ -1,0 +1,37 @@
+files:
+  - url: ""
+    time: 1676561143811.yml
+    name: config.yaml
+    selected: []
+  - time: 1676561334691.yml
+    name: Paoluz_Cat4SSR
+    url: https://api.bianyuan.xyz/sub?target=clash&udp=true&config=https%3A%2F%2Fraw.githubusercontent.com%2FHynoR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&exclude=GAME&emoji=true&filename=Paoluz_Cat4SSR&new_name=true&url=https://rss.paoluz.xyz/link/TNOte3Mo1Qjbl0iV?sub=1
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 节点选择
+        now: 🇭🇰 B00 香港*
+      - name: 🌍 国外媒体
+        now: 🚀 节点选择
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 🍎 苹果服务
+        now: 🚀 节点选择
+      - name: 📢 谷歌FCM
+        now: 🚀 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+    interval: 24
+    subInfo:
+      upload: 2805617766
+      download: 45438292959
+      total: 352503988224
+      expire: 1705931897
+    homeWeb: https://yaofan.cc/runaway/
+index: 1

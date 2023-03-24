@@ -1,0 +1,5 @@
+mixed-port: 39017
+allow-lan: true
+external-controller: '127.0.0.1:35319'
+secret: 'xxx'
+ipv6: true
